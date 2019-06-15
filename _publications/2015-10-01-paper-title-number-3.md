@@ -35,6 +35,6 @@ high amplitudes while remaining largely superior to that of the honeycomb beams.
 qualitative comparison of the ECF and reference beams, and the ECF beams lead to shorter decay times compared to the reference
 beams.
 
-#[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
 Recommended citation: Elsa Piollet, Edith Roland Fotsing, Annie Ross, Guilhem Michon. High damping and nonlinear vibration of sandwich beams with entangled cross-linked fibres as core material. <i>Composites Part B: Engineering1</i>, Elsevier, 2019, 168, pp.353-366. (doi:10.1016/j.compositesb.2019.03.029 - oai:hal-02157073)
