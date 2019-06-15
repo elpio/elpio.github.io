@@ -2,7 +2,7 @@
 title: "High damping and nonlinear vibration of sandwich beams with entangled
 cross-linked fibres as core material"
 collection: publications
-permalink: /publication/2018-sandwich-damping
+permalink: /publication/2019-07-sandwich-damping
 excerpt: 'Abstract: This article investigates the use of a recently developed fibrous core material to increase vibration damping in sandwich beams. The
 entangled cross-linked fibre (ECF) material is made of short carbon fibres cross-linked with epoxy resin. Dry friction between fibres
 provides energy dissipation when the material is deformed. Previous measurements on the material are post-processed to provide a
@@ -21,7 +21,9 @@ venue: 'Composites Part B: Engineering'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Elsa Piollet, Edith Roland Fotsing, Annie Ross, Guilhem Michon. High damping and nonlinear vibration of sandwich beams with entangled cross-linked fibres as core material. <i>Composites Part B: Engineering1</i>, Elsevier, 2019, 168, pp.353-366. (doi:10.1016/j.compositesb.2019.03.029 - oai:hal-02157073)'
 ---
-Abstract: This article investigates the use of a recently developed fibrous core material to increase vibration damping in sandwich beams. The
+<details>
+<summary>Abstract:</summary>
+This article investigates the use of a recently developed fibrous core material to increase vibration damping in sandwich beams. The
 entangled cross-linked fibre (ECF) material is made of short carbon fibres cross-linked with epoxy resin. Dry friction between fibres
 provides energy dissipation when the material is deformed. Previous measurements on the material are post-processed to provide a
 simplified viscoelastic description of the material, for an easier interpretation of subsequent structural testings. Two sandwich beams are
@@ -34,6 +36,7 @@ material: the resonance frequencies decrease with increasing excitation amplitud
 high amplitudes while remaining largely superior to that of the honeycomb beams. Transient impact testings are also presented for a
 qualitative comparison of the ECF and reference beams, and the ECF beams lead to shorter decay times compared to the reference
 beams.
+</details>
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
