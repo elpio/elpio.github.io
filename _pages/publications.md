@@ -9,8 +9,8 @@ author_profile: true
   En cours de mise à jour. En attendant, vous pouvez trouver mes article sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u>
 {% endif %}
 
-#{% include base_path %}
+{% include base_path %}
 
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
