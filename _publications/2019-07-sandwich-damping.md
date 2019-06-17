@@ -2,7 +2,7 @@
 title: "High damping and nonlinear vibration of sandwich beams with entangled
 cross-linked fibres as core material"
 collection: publications
-permalink: /publication/2019-07-sandwich-damping
+permalink: /publications/2019-07-sandwich-damping
 excerpt: ''
 date: 2019-07-01
 venue: 'Composites Part B: Engineering'
