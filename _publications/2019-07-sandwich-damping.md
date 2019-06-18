@@ -3,7 +3,7 @@ title: "High damping and nonlinear vibration of sandwich beams with entangled cr
 collection: publications
 permalink: /publication/2019-07-sandwich-damping
 excerpt: ''
-date: 2019-07-01
+date: 2019-07
 venue: 'Composites Part B: Engineering'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Elsa Piollet, Edith Roland Fotsing, Annie Ross, Guilhem Michon. High damping and nonlinear vibration of sandwich beams with entangled cross-linked fibres as core material. <i>Composites Part B: Engineering1</i>, Elsevier, 2019, 168, pp.353-366. (doi:10.1016/j.compositesb.2019.03.029 - oai:hal-02157073)'
