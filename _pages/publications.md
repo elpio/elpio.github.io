@@ -15,9 +15,7 @@ author_profile: true
   En cours de mise à jour. En attendant, vous pouvez trouver mes article sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u>
 {% endif %}
 
-<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Elsa+Piollet&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_typdoc=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" width="800" height="1000" frameborder="0" align="left"></iframe>
-
-<br>
+Une liste de mes publications sur HAL peut également être trouvée <a href="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Elsa+Piollet&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_typdoc=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css">ici</a>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
