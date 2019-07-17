@@ -17,4 +17,13 @@ author_profile: true
 
 Liste des publications sur HAL:
 
-<IFRAME width="700" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=elsa-piollet&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></IFRAME>
+ <details>
+  <summary>Classées par date</summary>
+  <p> <IFRAME width="700" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=elsa-piollet&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></IFRAME></p>
+</details> 
+
+ <details>
+  <summary>Classées par type</summary>
+  <p> <IFRAME width="700" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=elsa-piollet&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Francais&tri_exp=typdoc&tri_exp2=date_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></IFRAME></p>
+</details> 
+
