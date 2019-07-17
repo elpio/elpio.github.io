@@ -19,11 +19,12 @@ Intérêts de recherche
 ---
 * Vibrations: 
   * Vibrations non-linéaires (en particulier phénomènes de type frottement et contact)
-  * Vibrations dans les turbomachines
+  * Vibrations dans les turbomachines, optimisation et conception d'aubes robustes au contact
   * Vibrations et amortissement des structures multicouches
 
 * Acoustique: 
   * Rayonnement acoustique et perte par transmission des structures multicouches
+  * Aide à la conception de solutions acoustiques sur mesure
   * Développement de banc d’essai acoustique
   
 Enseignement
