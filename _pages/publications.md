@@ -18,8 +18,3 @@ author_profile: true
 Liste des publications sur HAL:
 
 <IFRAME width="505" height="500" src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?auteur_exp=Elsa+Piollet&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_typdoc=oui&langue=Francais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" FRAMEBORDER="0" scrolling="auto" ></IFRAME>
-
-
-# {% for post in site.publications reversed %}
-  # {% include archive-single.html %}
-# {% endfor %}
