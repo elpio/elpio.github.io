@@ -11,20 +11,15 @@ author_profile: true
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-{% if author.googlescholar %}
-  My publications can also be found on my <u><a href="{{author.googlescholar}}">Google Scholar profile</a>.</u>
-{% endif %}
+Before I can make a full English version of the website, here is an overview of the website content in English.
+### CV
 
-## CV
-
-Degrees
----
+#### Degrees
 * PhD, mechanical engineering, Institut Supérieur de l’Aéronautique et de l’Espace, Toulouse, France (2014)
 * French research Master, mechanical engineering, Université de Toulouse, France (2011)
 * Supaéro engineer degree, aerospace engineering, Institut Supérieur de l’Aéronautique et de l’Espace, Toulouse, France (2011)
 
-Research interests
----
+#### Research interests
 * Vibrations: 
   * Nonlinear vibrations (especially friction and contact phenomena)
   * Vibrations in turbomachinery, optimization and design of blades with reduced vibration response to contact
@@ -35,13 +30,16 @@ Research interests
   * Tools to support the design of customized acoustic packages
   * Design and characterization of acoustic experimental set-ups
   
-Teaching
----
+#### Teaching
 * Noise control, graduate students
 
-## Publications
+### Publications
 
-List of publications available on the open archive website HAL:
+{% if author.googlescholar %}
+  My publications can also be found on my <u><a href="{{author.googlescholar}}">Google Scholar profile</a>.</u>
+{% endif %}
+
+List of publications available on the open archive website [HAL](https://hal.archives-ouvertes.fr/):
 
  <details open>
   <summary>By year</summary>
