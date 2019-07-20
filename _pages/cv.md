@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Diplômes obtenus
 ---
 * Doctorat, génie mécanique, Institut Supérieur de l’Aéronautique et de l’Espace, Toulouse, France (2014)

@@ -4,8 +4,8 @@ title: "À propos"
 excerpt: "À propos"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /accueil/
+  - /accueil.html
 ---
 
 Bienvenue !
