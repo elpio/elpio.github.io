@@ -29,7 +29,7 @@ Before I can make a full English version of the website, here is an overview of 
   * Design and characterization of acoustic experimental set-ups
   
 #### Teaching
-* Noise control, graduate students
+* Noise control for mechanical systems, 2016-2018, Polytechnique Montréal, graduate level
 
 ### Publications
 
