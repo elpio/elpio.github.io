@@ -10,7 +10,7 @@ redirect_from:
 
 Bienvenue !
 
-Je suis actuellement développeuse logiciel à [Maya Transfert de Chaleur Ltée](https://www.mayahtt.com/), où je travaille sur le développement de logiciels pour la simulation numérique de phénomènes thermiques. Auparavant, j'étais post-doctorante puis associée de recherche au [Laboratoire d'Analyse Vibratoire et Acoustique](http://lava.polymtl.ca/) de l'École Polytechnique de Montréal (Canada).
+Je suis actuellement développeuse logiciel à [Maya HTT](https://www.mayahtt.com/?lang=fr), où je travaille sur le développement de logiciels pour la simulation numérique de phénomènes thermiques. Auparavant, j'étais post-doctorante puis associée de recherche au [Laboratoire d'Analyse Vibratoire et Acoustique](http://lava.polymtl.ca/) de l'École Polytechnique de Montréal (Canada).
 
 Je suis diplômée en génie mécanique et génie aéronautique de l'[ISAE-Supaéro](https://www.isae-supaero.fr/fr/). J'ai réalisé mon doctorat à l'ISAE-Supaéro, dans les laboratoires du CIRIMAT et de l'Institut Clément Ader, à Toulouse (France).
 

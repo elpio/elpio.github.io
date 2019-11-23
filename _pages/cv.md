@@ -9,7 +9,7 @@ redirect_from:
 
 Parcours professionnel
 ---
-* (2019-) Développeuse logiciel, solveur thermique à Maya Transfert de Chaleur Ltée, Montréal, Québec, Canada
+* (2019-) Développeuse logiciel, solveur thermique à Maya HTT, Montréal, Québec, Canada
 * (2014-2019) Post-doctorante puis associée de recherche à Polytechnique Montréal, Montréal, Québec, Canada
   * mots clés: analytique, expérimental, numérique, programmation, vibrations, acoustique, phénomènes non-linéaires, conception, traitement du signal, turbomachines
   * partenaires industriels: Safran (France), Elasto Proxy (Canada)
