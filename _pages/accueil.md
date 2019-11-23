@@ -10,8 +10,8 @@ redirect_from:
 
 Bienvenue !
 
-Je suis actuellement associée de recherche au [Laboratoire d'Analyse Vibratoire et Acoustique](http://lava.polymtl.ca/) de l'École Polytechnique de Montréal (Canada).
+Je suis actuellement développeuse logiciel à [Maya Transfert de Chaleur Ltée](https://www.mayahtt.com/), où je travaille sur le développement de logiciels pour la simulation numérique de phénomènes thermiques. Auparavant, j'étais post-doctorante puis associée de recherche au [Laboratoire d'Analyse Vibratoire et Acoustique](http://lava.polymtl.ca/) de l'École Polytechnique de Montréal (Canada).
 
-J'ai réalisé ma thèse à l'Institut Supérieur de l'Aéronautique et de l'Espace, dans les laboratoires du CIRIMAT et de l'Institut Clément Ader, à Toulouse (France), et mon post-doctorat au Laboratoire d'Analyse Vibratoire et Acoustique de l'École Polytechnique de Montréal (Canada).
+Je suis diplômée en génie mécanique et génie aéronautique de l'[ISAE-Supaéro](https://www.isae-supaero.fr/fr/). J'ai réalisé mon doctorat à l'ISAE-Supaéro, dans les laboratoires du CIRIMAT et de l'Institut Clément Ader, à Toulouse (France).
 
-Thèmes de recherche: Vibrations non-linéaires - Turbomachines - Acoustique - Structures multi-couches – Amortissement
+Je suis particulièrement intéressée par tout ce qui touche à la modélisation de phénomènes physiques en génie. Durant mes années dans le monde académique, je me suis principalement consacrée aux vibrations et à l'acoustique, et je me suis maintenant tournée vers les phénomènes de transfert de chaleur.

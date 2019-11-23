@@ -8,6 +8,7 @@ author_profile: true
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+Thèmes de recherche: Vibrations non-linéaires - Turbomachines - Acoustique - Structures multi-couches – Amortissement
 
 {% if author.googlescholar %}
   Mes publications peuvent également être trouvées sur mon <u><a href="{{author.googlescholar}}">profil Google Scholar</a>.</u>

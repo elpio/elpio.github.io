@@ -12,6 +12,11 @@ author_profile: true
 Before I can make a full English version of the website, here is an overview of the website content in English.
 ### CV
 
+#### Work experience
+* Software developer, Maya Heat Transfer Technology
+* Research associate, Polytechnique Montreal
+* Post-doctoral fellow, Polytechnique Montreal
+
 #### Degrees
 * PhD, mechanical engineering, Institut Supérieur de l’Aéronautique et de l’Espace, Toulouse, France (2014)
 * French research Master, mechanical engineering, Université de Toulouse, France (2011)
